@@ -33,5 +33,10 @@ Currently for GOG version, may do others at some point later
  - There is quite a bit of code not being used in CryLich.h, as well as some class objects that are stored by the tool and not used, and I have kept all this because it could be helpful to someone else, or me, later.
  - For some reason the mouse cursor disappears, and none of my attempts to revive it thus far have succeeded
 
+### To Build
+You will need the DirectXTK as well as Boost Chrono, Date-Time, and Filesystem libraries
+
+---
+
 Special thanks of course to Xaviant for making Lichdom: Battlemage, which is really a pretty cool game, and fun to play.
 
